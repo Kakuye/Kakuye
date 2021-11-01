@@ -46,4 +46,4 @@
 
 
 ⭐️ From [Kakuye](https://github.com/kakuye)
-<a href="https://app.daily.dev/kakuye"><img src="https://api.daily.dev/devcards/c3e57cf3366748e8bd1ec8ee672d5436.png?r=fax" width="400" alt="Nigatu Endalkachew's Dev Card"/></a>
+<a href="https://app.daily.dev/kakuye">https://github.com/Kakuye/Kakuye/blob/main/devcard.svg</a>
