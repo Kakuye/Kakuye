@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.     
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Working as a System Administrator at Ethiopian Education and Research Network.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
@@ -46,3 +46,4 @@
 
 
 ⭐️ From [Kakuye](https://github.com/kakuye)
+<a href="https://app.daily.dev/kakuye"><img src="https://api.daily.dev/devcards/c3e57cf3366748e8bd1ec8ee672d5436.png?r=fax" width="400" alt="Nigatu Endalkachew's Dev Card"/></a>
