@@ -36,14 +36,6 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
-<a href="https://github.com/kakuye">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakuye&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakuye&theme=buefy&layout=compact" />
-</a>
-
+<a href="https://app.daily.dev/kakuye"><img src="https://github.com/Kakuye/Kakuye/blob/main/devcard.svg" width="400" alt="Nigatu Endalkachew"></a>
 <br/>
-
-
 ⭐️ From [Kakuye](https://github.com/kakuye)
-<a href="https://app.daily.dev/kakuye"><img src="https://github.com/Kakuye/Kakuye/blob/main/devcard.svg"  width="400" alt="Nigatu Endalkachew"></a>
