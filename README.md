@@ -1,14 +1,13 @@
 
 
-<h2> Hey there! I'm Nigatu Endalkachew.</h2>
+<h2> Hey there! I'm Nigatu Nigusie</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.     
-- 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Working as a System Administrator at Ethiopian Education and Research Network.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
-- ✍️ &nbsp; Pursuing Graphic Design and Pentesting web based system as hobbies/side hustles.
+- ✍️ &nbsp; Pentesting web based system as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
