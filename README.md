@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.     
-- 💼 &nbsp; Working as a System Administrator at Ethiopian Education and Research Network.
+- 💼 &nbsp; Working as a System Administrator at MoE - Ethiopian Education and Research Network.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Development.
 - ✍️ &nbsp; Pentesting web based system as hobbies/side hustles.
 
